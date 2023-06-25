@@ -1,7 +1,6 @@
 
     .container{ 
-
-      font-size: 30px;
+      font-size: 27px;
       display: flex;
       flex-wrap: wrap;
       text-align: center;
@@ -20,7 +19,7 @@
     #col1{
      background-color: rgb(74, 32, 226); 
      color: white; 
-     padding: 50px;
+     padding: 30px;
     border-radius: 10%;
     }
     #col2{
@@ -30,20 +29,24 @@
         gap: 20px; padding-top: 25px;
     }
     #Reaction{ 
+      color: rgb(255, 17, 0);
         height: 50px;
         background-color: rgb(245, 228, 228);
         border-radius: 10%;
     }
     #Memory{
+      color: rgb(255, 115, 0);
         height: 50px; 
         background-color: rgb(238, 233, 193); 
         border-radius: 10%; }
     #Verbal{ 
+      color: rgb(3, 141, 60);
         height: 50px; 
         background-color: rgb(226, 248, 234);
         border-radius: 10%; 
     }
     #Visual{ 
+      color: blue;
         height: 50px; 
         background-color: rgb(238, 240, 250);
         border-radius: 10%; }
@@ -62,6 +65,18 @@
         color: white;
     }
     button:hover{ background-color: blue;
+    }
+    .mark{
+     background-image: linear-gradient(to bottom, rgb(6, 6, 71), rgb(27, 27, 194));
+      height: 80px;
+      width: 80px;
+      font-size: 20px;
+      border-radius: 50%;
+      position: relative;
+      top: 50%;
+      left: 50%;
+     transform: translate(-50%,0%);
+    
     }
    /* media query*/
      @media screen and (max-width: 768px) 
