@@ -2,7 +2,7 @@
     .container{ 
       
       /*transform: translate(-50%, -50%);*/
-      font-size: 3opx;
+      font-size: 27px;
       display: flex;
       flex-wrap: wrap;
       text-align: center;
@@ -13,14 +13,14 @@
       text-align: center;
     }
     .column{
-      width: 60%;
+      width: 50%;
       height: 500px;
       padding: 10px;
       box-sizing: border-box;
     }
     #col1{
      background-color: rgb(74, 32, 226); 
-     color: black; 
+     color: white; 
      padding: 30px;
     border-radius: 10%;
     }
@@ -72,7 +72,7 @@
      background-image: linear-gradient(to bottom, rgb(6, 6, 71), rgb(27, 27, 194));
       height: 80px;
       width: 80px;
-      font-size: 2px;
+      font-size: 20px;
       border-radius: 50%;
       position: relative;
       top: 50%;
