@@ -6,8 +6,8 @@ This project is done by Group 1 of the Mobile App Development class of the Skill
 
 Group 1
 
-Ekop-Eto Michael
-Akuejeogu Odinaka
+-Ekop-Eto Michael
+-Akuejeogu Odinaka
 Alozie Peter Chibuzor
 UCHENDU CHETACHI PEACE
 Thankgod Michael
